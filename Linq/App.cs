@@ -1,6 +1,7 @@
 ﻿public class App
 {
     //Test
+    //kommentar
 
     public int RabbatPercent()
     {
