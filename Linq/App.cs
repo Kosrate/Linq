@@ -1,6 +1,18 @@
-﻿public class App
+public class App
 {
 
+    //Test
+    //kommentar
+
+
+    //sadsad
+
+
+
+
+
+
+    //asdfsdfsdfsadadadsasdasdasd
     public int RabbatPercent()
     {
         
