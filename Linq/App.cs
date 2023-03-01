@@ -3,6 +3,9 @@
     //Test
     //kommentar
 
+    // Test for code review
+
+    //sadsad
     public int RabbatPercent()
     {
         if (DateTime.Now.DayOfWeek == DayOfWeek.Monday)
