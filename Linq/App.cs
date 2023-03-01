@@ -3,7 +3,7 @@
 
     public int RabbatPercent()
     {
-        //hej
+        
         if (DateTime.Now.DayOfWeek == DayOfWeek.Monday)
             return 10;
         return 0;
