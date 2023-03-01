@@ -1,7 +1,9 @@
-﻿public class App
+public class App
 {
+
     //Test
     //kommentar
+
 
     //sadsad
 
@@ -13,6 +15,7 @@
     //asdfsdfsdfsadadadsasdasdasd
     public int RabbatPercent()
     {
+        
         if (DateTime.Now.DayOfWeek == DayOfWeek.Monday)
             return 10;
         return 0;
