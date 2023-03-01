@@ -3,8 +3,6 @@
     //Test
     //kommentar
 
-    // Test for code review
-
     //sadsad
     public int RabbatPercent()
     {
