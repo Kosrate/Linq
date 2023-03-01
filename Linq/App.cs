@@ -1,8 +1,7 @@
 ﻿public class App
 {
     //Test
-
-    // Test for code review
+    //kommentar
 
     //sadsad
 
